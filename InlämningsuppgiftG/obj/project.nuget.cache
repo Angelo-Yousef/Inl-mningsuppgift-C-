@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ISX2jE0zWS52JOqSP7lyGE2w4rXP7uyWOU0kHws5RjX769uv+EslXU0n91RH16FRXhaxJE2ReQ4G6MUO6sUDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\source\\repos\\InlämningsuppgiftG\\InlämningsuppgiftG\\InlämningsuppgiftG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

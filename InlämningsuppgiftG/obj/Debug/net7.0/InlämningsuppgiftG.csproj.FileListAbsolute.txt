@@ -1,0 +1,17 @@
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\bin\Debug\net7.0\InlämningsuppgiftG.exe
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\bin\Debug\net7.0\InlämningsuppgiftG.deps.json
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\bin\Debug\net7.0\InlämningsuppgiftG.runtimeconfig.json
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\bin\Debug\net7.0\InlämningsuppgiftG.dll
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\bin\Debug\net7.0\InlämningsuppgiftG.pdb
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\InlämningsuppgiftG.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\InlämningsuppgiftG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\InlämningsuppgiftG.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\InlämningsuppgiftG.AssemblyInfo.cs
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\InlämningsuppgiftG.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\InlämningsuppgiftG.csproj.CopyComplete
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\InlämningsuppgiftG.dll
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\refint\InlämningsuppgiftG.dll
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\InlämningsuppgiftG.pdb
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\InlämningsuppgiftG.genruntimeconfig.cache
+C:\Users\angel\source\repos\InlämningsuppgiftG\InlämningsuppgiftG\obj\Debug\net7.0\ref\InlämningsuppgiftG.dll
